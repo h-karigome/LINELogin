@@ -1,0 +1,18 @@
+PODS:
+  - LineSDKSwift (5.0.3):
+    - LineSDKSwift/Core (= 5.0.3)
+  - LineSDKSwift/Core (5.0.3)
+
+DEPENDENCIES:
+  - LineSDKSwift (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LineSDKSwift
+
+SPEC CHECKSUMS:
+  LineSDKSwift: 1f25c14f8e702e12720c4a026c4dc186f0759e72
+
+PODFILE CHECKSUM: dadb136a041f21de7a2e73f5d594ce37522d97f1
+
+COCOAPODS: 1.5.3

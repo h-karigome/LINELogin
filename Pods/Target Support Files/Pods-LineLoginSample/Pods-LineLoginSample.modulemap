@@ -1,0 +1,6 @@
+framework module Pods_LineLoginSample {
+  umbrella header "Pods-LineLoginSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
